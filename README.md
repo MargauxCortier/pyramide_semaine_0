@@ -1,5 +1,4 @@
 # pyramide_semaine_0
-
 puts "Salut, bienvenue dans ma super pyramide ! Combien d'étages veux-tu ?"
 print "> "
 num = gets.to_i
